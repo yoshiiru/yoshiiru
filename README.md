@@ -6,4 +6,4 @@ Hello! I am Zexx, a developer and member of the [supremorpg](https://supremorpg.
 <br />
 <br />
 
-[![Zexx GitHub stats](https://github-readme-stats.vercel.app/api?username=Zexx&show_icons=true&theme=dark)](https://github.com/zexxsupremo)
+[![Zexx GitHub stats](https://github-readme-stats.vercel.app/api?username=zexxsupremo&show_icons=true&theme=dark)](https://github.com/zexxsupremo)
